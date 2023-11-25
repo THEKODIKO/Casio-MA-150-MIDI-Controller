@@ -1,0 +1,10 @@
+{
+    "readPort": "COM4",
+    "readBaudrate": 115200, 
+    
+    "writePort": "COM1717",
+    "writeBaudrate": 115200,
+
+    "timeout": 1,
+    "readBytes": 3
+}
